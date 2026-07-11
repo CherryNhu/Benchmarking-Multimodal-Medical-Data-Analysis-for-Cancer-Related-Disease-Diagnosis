@@ -1,0 +1,23 @@
+# Python/cache
+__pycache__/
+*.py[cod]
+*.so
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Keep only lightweight, paper-relevant content under MMIST
+MMIST/*
+!MMIST/scripts/
+!MMIST/scripts/**
+!MMIST/MYNOTE.txt
+
+# Exclude heavyweight experiment artifacts
+MMIST/checkpoint/
+MMIST/feat/
+MMIST/logs/
+MMIST/runs/
+MMIST/mmist-ccRCC-MMIST/
+MMIST/mmist-ccRCC-SYNAPSE/

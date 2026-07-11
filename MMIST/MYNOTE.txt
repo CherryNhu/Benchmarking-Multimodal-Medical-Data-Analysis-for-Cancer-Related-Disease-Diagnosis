@@ -1,0 +1,8 @@
+- Du lieu dau vao cua clinical co 618 file feature = voi so luong benh nhan dataset
+- Du lieu dau vao cua MRI la 965 file feature 
+- Du lieu dau vao cua CT la 3222 file feature 
+- Du lieu dau vao cua WSI laf 610 file feature 
+
+- chia feat WSI, CT cho synapse
+- vibe synapse
+- them rieng clinical MIL mmist + all feature cho ablation_mode all 

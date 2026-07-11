@@ -13,10 +13,14 @@ MMIST/*
 !MMIST/scripts/
 !MMIST/scripts/**
 !MMIST/MYNOTE.txt
+!MMIST/feat/
+
+# Keep only tabular metadata/splits from feature folders
+MMIST/feat/*
+!MMIST/feat/**/*.csv
 
 # Exclude heavyweight experiment artifacts
 MMIST/checkpoint/
-MMIST/feat/
 MMIST/logs/
 MMIST/runs/
 MMIST/mmist-ccRCC-MMIST/

@@ -17,8 +17,6 @@ MMIST/*
 
 # Keep only tabular metadata/splits from feature folders
 MMIST/feat/*
-!MMIST/feat/*/
-!MMIST/feat/**/
 !MMIST/feat/**/*.csv
 
 # Exclude heavyweight experiment artifacts
